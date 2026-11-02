@@ -1,0 +1,15 @@
+{
+    "Version": 1,
+    "JarCount": 3,
+    "ConveyorCapacity": 6000,
+    "Difficulty": 0,
+    "Width": 24,
+    "Height": 30,
+    "Board": "TY7bCgIxEEN3ppdpXCMrgiwIPvgR/v+nmY4r+HA4TRpKbV+eS7zJaLToXOUiIw22GOof9LiIxhpnUUU7cv3j102XfM/ClT3PRZvZf9EZxqF+oLDCj057rOy4yS8adhbchf6Ha+4MSAJDfaQ9c08PbR0nZWfT3Tb5AA==",
+    "Blockers": [
+        {
+            "Type": 1,
+            "Data": 225
+        }
+    ]
+}

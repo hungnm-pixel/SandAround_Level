@@ -1,0 +1,16 @@
+{
+    "Version": 2,
+    "LevelShape": 0,
+    "JarCount": 6,
+    "ConveyorCapacity": 3500,
+    "Difficulty": 0,
+    "Width": 27,
+    "Height": 30,
+    "Board": "ZVFBbgQxCBswTLLbAxc4Ver/n1mTSWdW6gEFG4hxot/Hz5FeM5Xx2ucI6JmmZ2h6mI4kDiTCRdWJTDQslZh5KjFu/L5zURdTDyc6lSUV2efixsPEufHcucBCFawiADRT7OthcAZcRAxaklK6+cVcPH38sfMfI3Uu5cVuJVYTZdzsUpvEUujA5WcUDRVfYO2hgZvjVYwPviREO3rrVsalXu2cPrpDHU9tO7srrT1S6LTdcmpXDFZ8JRE0/bBe3jd89Bp9vmQsDWcPYDJhOTqXN05mznecOYs/iq+04xc=",
+    "Blockers": [
+        {
+            "Type": 8,
+            "Data": 3205
+        }
+    ]
+}

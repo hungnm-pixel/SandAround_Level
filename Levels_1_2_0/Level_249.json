@@ -1,0 +1,21 @@
+{
+    "Version": 2,
+    "LevelShape": 0,
+    "JarCount": 7,
+    "ConveyorCapacity": 3800,
+    "Difficulty": 0,
+    "Width": 28,
+    "Height": 30,
+    "Board": "bVJbbgMxCFwYYDeokhXLn1Hvf6leoKfogDdVP/pBsswMb9vr+DzS4pkf65kekhEyzGWAxu/EEv56oaFDaSd9Yo0bcV3UhrjSZJn7KE5TNzdlKS38Cq0Ysp4yyU6l+lGZiBm1MkEUQ92qWuM6bF7jwYrln63o2HEm+d3JAIyo7ngw19bjbNQaZV+h4Gxgn2BPZDwwdfux/7cBMiUZ6azkhrNRyxji/qvzG4Vr2Z/4N+/MoWn/xLB+ul+NRWPsecpdt/wL7Bt33mSHCajXznYm1OS7d0f6tOW4t8YpdZ6LCnCDqBsW7vPknFH7uhGbXaNmDxuojd4MuEtugcYbkumI2vbgRHwHYNaKoLYunajLkqkLeEewcjP2ZmYQ10L77cQK9uil63d3kbew45DjCyLHt/4A",
+    "Blockers": [
+        {
+            "Type": 10,
+            "Data": 38
+        },
+        {
+            "Type": 1,
+            "Data": 163
+        }
+    ],
+    "Cements": []
+}
